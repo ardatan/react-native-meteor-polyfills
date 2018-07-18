@@ -1,12 +1,12 @@
 {
   "name": "react-native-meteor-polyfills",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Meteor Polyfills for React Native",
   "main": "client.js",
   "license": "MIT",
   "repository": "https://github.com/ardatan/react-native-meteor-polyfills",
   "author": "Arda TANRIKULU",
   "dependencies": {
-    "react-native-browser-polyfills": "1.0.1"
+    "react-native-browser-polyfills": "^1.0.6"
   }
 }
